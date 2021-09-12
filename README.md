@@ -12,5 +12,5 @@ Contains additional materials for the following keras.io blog posts:
 
 
 ## Acknowledgements
-* François Chollet for providing immense guidance during the development.
+* François Chollet for providing guidance during the development.
 * [ML-GDE](https://developers.google.com/programs/experts/) program for providing GCP credits that helped me run the initial experiments.
